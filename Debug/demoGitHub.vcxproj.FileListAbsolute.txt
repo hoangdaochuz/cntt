@@ -1,0 +1,2 @@
+C:\Users\KHAI\Desktop\huukhai\demoGitHub\Debug\demoGitHub.exe
+C:\Users\KHAI\Desktop\huukhai\demoGitHub\Debug\demoGitHub.pdb
